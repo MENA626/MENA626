@@ -75,4 +75,4 @@ I am a Software Engineering student at the **University of Tripoli** (Internet T
 
 - 🕵️‍♀️ **Debugging:** Being the detective AND the criminal at the same time 😭.
 - ☕ **Fuel:** Powered by coffee, deep focus, and chaos.
-- 📱 **Preference:** Strictly iPhone for the daily drive!
+
