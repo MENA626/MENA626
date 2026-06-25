@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Menat Allah Ahmed 👩‍💻
 
-<!--
-**MENA626/MENA626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Lifelong Learner
 
-Here are some ideas to get you started:
+I enjoy building web applications, exploring new technologies, and turning ideas into real solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🌍 Based in Tripoli, Libya  
+- 💻 Passionate about software development  
+- 🧠 Always learning and improving  
+- ⚡ I turn problems into code and ideas into reality  
+
+---
+
+## 🛠️ Skills
+- HTML • CSS • JavaScript  
+- Git & GitHub  
+- Laravel / PHP (if you use it)  
+- Problem Solving  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MENA626&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MENA626)
+
+---
+
+## 📫 Contact Me
+- Email: mena.v.v.v66@gmail.com  
+- GitHub: https://github.com/MENA626  
+
+---
+
+## 💡 Motto
+"Turning ideas into code and problems into solutions."
