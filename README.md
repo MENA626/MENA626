@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Menat Allah Ahmed
+#  Hi, I'm Menat Allah Ahmed
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1D4ED8&center=true&vCenter=true&width=800&lines=Software+Engineering+Student+@+UOT;Full-Stack+Developer+(Web+%26+Mobile);AI,+LLMs,+%26+RAG+Enthusiast;Building+Next-Gen+LegalTech+Systems;Turning+Ideas+into+Working+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1D4ED8&center=true&vCenter=true&width=800&lines=Software+Engineer+%26+Developer;IT+Graduate+@+University+of+Tripoli;Full-Stack+Developer+(Web+%26+Mobile);AI,+LLMs,+%26+RAG+Enthusiast;Building+Next-Gen+LegalTech+Systems)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MENA626&label=Profile%20Views&color=1D4ED8&style=for-the-badge" alt="Profile Views" />
@@ -14,9 +14,9 @@
 
 ## 🚀 About Me
 
-I am a Software Engineering student at the **University of Tripoli** (Internet Technologies Department) and a multi-platform Software Developer from Libya. I specialize in building robust backend systems, sleek mobile applications, and integrating Artificial Intelligence into real-world projects.
+I am a Software Engineer and multi-platform Software Developer from Libya. I graduated from the **University of Tripoli** (Faculty of Information Technology), and I specialize in building robust backend systems, sleek mobile applications, and integrating Artificial Intelligence into real-world projects.
 
-- 🎓 **Studying:** Software Engineering & Internet Technologies.
+- 🎓 **Education:** IT Graduate, Faculty of Information Technology, University of Tripoli.
 - 💡 **Currently Building:** **Mizan** – A comprehensive LegalTech system featuring an AI legal assistant, smart document library (Smart Vault) with OCR, and a lawyer directory.
 - 🧠 **Deep Diving Into:** Artificial Intelligence, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Semantic Search architectures.
 - 🎨 **Design Philosophy:** I love high-end, clean, and modern UI/UX (Bento Grid, Glassmorphism).
@@ -75,4 +75,3 @@ I am a Software Engineering student at the **University of Tripoli** (Internet T
 
 - 🕵️‍♀️ **Debugging:** Being the detective AND the criminal at the same time 😭.
 - ☕ **Fuel:** Powered by coffee, deep focus, and chaos.
-
