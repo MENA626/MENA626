@@ -20,7 +20,7 @@ I am a Software Engineer and multi-platform Software Developer from Libya. I gra
 - 💡 **Currently Building:** **Mizan** – A comprehensive LegalTech system featuring an AI legal assistant, smart document library (Smart Vault) with OCR, and a lawyer directory.
 - 🧠 **Deep Diving Into:** Artificial Intelligence, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Semantic Search architectures.
 - 🎨 **Design Philosophy:** I love high-end, clean, and modern UI/UX (Bento Grid, Glassmorphism).
-- 📫 **How to reach me:** [mena.v.v.v66@gmail.com](mailto:mena.v.v.v66@gmail.com)
+
 
 ---
 
@@ -69,7 +69,7 @@ I am a Software Engineer and multi-platform Software Developer from Libya. I gra
 
 ---
 
-## ⚡ Fun Facts & Philosophy
+## ⚡
 
 > *"I don’t just write code — I build intelligent systems that solve real problems."*
 
