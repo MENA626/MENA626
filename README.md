@@ -192,29 +192,10 @@ A structured directory connecting users with legal professionals.
 
 ---
 
-## <img src="https://api.iconify.design/lucide/coffee.svg?color=%2360A5FA" width="26" alt="" /> Behind the Code
+**⚡**
 
-> *"I don't just write code — I build intelligent systems that solve real problems."*
+*"I don’t just write code — I build intelligent systems that solve real problems."*
 
-- <img src="https://api.iconify.design/lucide/search-code.svg?color=%2360A5FA" width="19" alt="" /> **Debugging:** Being the detective AND the criminal at the same time.
-- <img src="https://api.iconify.design/lucide/coffee.svg?color=%23A78BFA" width="19" alt="" /> **Fuel:** Powered by coffee, deep focus, and chaos.
-- <img src="https://api.iconify.design/lucide/sparkles.svg?color=%2360A5FA" width="19" alt="" /> **Passion:** Turning complex ideas into beautiful, intelligent software.
-- <img src="https://api.iconify.design/lucide/target.svg?color=%23A78BFA" width="19" alt="" /> **Goal:** Build technology that makes a meaningful impact.
+🕵️‍♀️ **Debugging:** Being the detective AND the criminal at the same time 😭.
 
----
-
-<div align="center">
-
-### <img src="https://api.iconify.design/lucide/message-circle.svg?color=%2360A5FA" width="24" alt="" /> Let's Connect & Build Something Great
-
-<a href="https://github.com/MENA626"><img src="https://img.shields.io/badge/GitHub-MENA626-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="My GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1100&color=A78BFA&center=true&vCenter=true&width=750&height=65&lines=Thanks+for+visiting+my+GitHub+profile!;Always+learning.+Always+building.;Let's+create+something+extraordinary." alt="Animated Footer Text" />
-
-<br/>
-
-**Designed with passion. Built with code. Driven by curiosity.**
-
-</div>
+☕ **Fuel:** Powered by coffee, deep focus, and chaos.
