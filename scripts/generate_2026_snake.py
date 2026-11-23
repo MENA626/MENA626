@@ -13,11 +13,11 @@ OUT = Path("dist")
 DAYS = [dt.date(YEAR, 1, 1) + dt.timedelta(days=i) for i in range(365)]
 START = DAYS[0] - dt.timedelta(days=(DAYS[0].weekday() + 1) % 7)
 WEEKS = 53
-CELL = 15
-STEP = 19
+CELL = 18
+STEP = 21
 LEFT, TOP = 80, 100
-SVG_WIDTH = 1190
-SVG_HEIGHT = 330
+SVG_WIDTH = 1235
+SVG_HEIGHT = 320
 COLORS = {
     "light": {"bg": "#FFFFFF", "text": "#0F172A", "sub": "#475569", "empty": "#E7EDF5", "future": "#F8FAFC", "levels": ["#C6D8FF", "#8FB5FF", "#5086F3", "#1D4ED8"], "accent": "#EAB308", "snake": "#F59E0B"},
     "dark": {"bg": "#0B1220", "text": "#E6EDF7", "sub": "#9CAFC8", "empty": "#202D42", "future": "#111D2D", "levels": ["#173C74", "#2155AE", "#3B82F6", "#93C5FD"], "accent": "#FACC15", "snake": "#FACC15"},
@@ -141,12 +141,12 @@ def svg_for_theme(data, theme):
         )
     for i in reversed(range(6)):
         out.append(
-            f'<circle class="tail" cx="0" cy="0" r="{5.3-i*.48:.2f}" '
+            f'<circle class="tail" cx="0" cy="0" r="{7.0-i*.58:.2f}" '
             f'fill="{c["snake"]}" opacity="{1-i*.115:.2f}" '
             f'style="animation-delay:{i*.10:.2f}s"/>'
         )
     out.append(
-        f'<circle class="head" cx="0" cy="0" r="6.7" fill="{c["snake"]}" '
+        f'<circle class="head" cx="0" cy="0" r="8.6" fill="{c["snake"]}" '
         f'stroke="{c["bg"]}" stroke-width="1.3"/>'
     )
     out.append(f'<text class="info" x="{LEFT}" y="275">TOTAL 2026: {total:,}</text>')
