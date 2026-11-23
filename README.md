@@ -45,7 +45,6 @@ I am a Software Engineer and multi-platform Software Developer from Libya. I gra
 
 <img src="https://skillicons.dev/icons?i=js,java,php,laravel,tailwind,nodejs,html,css&theme=dark&perline=8" alt="JavaScript, Java, PHP, Laravel, Tailwind CSS, Node.js, HTML5, CSS3" />
 
-<br/><br/>
 
 <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs" />
 <img src="https://img.shields.io/badge/Livewire-7C3AED?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
@@ -67,7 +66,6 @@ I am a Software Engineer and multi-platform Software Developer from Libya. I gra
 <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 
-<br/>
 
 <img src="https://img.shields.io/badge/RAG-1D4ED8?style=for-the-badge" alt="RAG" />
 <img src="https://img.shields.io/badge/Embeddings-4338CA?style=for-the-badge" alt="Embeddings" />
@@ -82,7 +80,6 @@ I am a Software Engineer and multi-platform Software Developer from Libya. I gra
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,redis&theme=dark" alt="PostgreSQL, MySQL, Supabase, Redis" />
 
-<br/><br/>
 
 <img src="https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
 
@@ -92,7 +89,6 @@ I am a Software Engineer and multi-platform Software Developer from Libya. I gra
 
 <img src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark" alt="Kali Linux, Linux, Bash" />
 
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Nmap-2563EB?style=for-the-badge" alt="Nmap" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -105,7 +101,6 @@ I am a Software Engineer and multi-platform Software Developer from Libya. I gra
 
 <img src="https://skillicons.dev/icons?i=replit,git,github,docker,postman,vscode,androidstudio&theme=dark&perline=7" alt="Replit, Git, GitHub, Docker, Postman, VS Code, Android Studio" />
 
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
 <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
