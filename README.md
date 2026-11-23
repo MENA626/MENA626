@@ -212,10 +212,10 @@ A structured directory connecting users with legal professionals.
 
 ---
 
-**⚡**
-
-*"I don’t just write code — I build intelligent systems that solve real problems."*
-
-🕵️‍♀️ **Debugging:** Being the detective AND the criminal at the same time 😭.
-
-☕ **Fuel:** Powered by coffee, deep focus, and chaos.
+> *⚡*
+>
+> *"I don’t just write code — I build intelligent systems that solve real problems."*
+>
+> *🕵️‍♀️ **Debugging:** Being the detective AND the criminal at the same time 😭.*
+>
+> *☕ **Fuel:** Powered by coffee, deep focus, and chaos.*
