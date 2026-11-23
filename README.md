@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".github/assets/hello-world-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset=".github/assets/hello-world-light.svg" />
-  <img alt="HELLO WORLD" src=".github/assets/hello-world-light.svg" width="320" />
+  <img alt="HELLO WORLD!" src=".github/assets/hello-world-light.svg" width="320" />
 </picture>
 
 <picture>
@@ -205,19 +205,12 @@ A structured directory connecting users with legal professionals.
 
 <div align="center">
 
-**January 1 — December 31, 2026**
-
-The highlighted gold columns show the three weeks with your strongest contribution activity in 2026. The snake follows the entire calendar, with real contributions only.
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MENA626/MENA626/output/github-snake-2026-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MENA626/MENA626/output/github-snake-2026-light.svg" />
   <img src="https://raw.githubusercontent.com/MENA626/MENA626/output/github-snake-2026-light.svg" alt="Animated 2026 GitHub contribution snake, highlighting strongest activity weeks" width="100%" />
 </picture>
 
-<sub>Live GitHub contributions from 2026. Future dates are intentionally blank. Updated automatically every day.</sub>
 
 </div>
 
