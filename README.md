@@ -176,16 +176,16 @@ A structured directory connecting users with legal professionals.
 
 ---
 
-## <img src="https://api.iconify.design/lucide/git-branch.svg?color=%23A78BFA" width="26" alt="" /> Contribution Activity
+## <img src=".github/assets/git-branch.svg" width="26" alt="" /> Contribution Activity
 
 <div align="center">
 
 <!-- These animated SVGs are generated automatically by .github/workflows/snake.yml -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MENA626/MENA626/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MENA626/MENA626/output/github-snake.svg" />
-  <img alt="Animated GitHub Contribution Snake" src="https://raw.githubusercontent.com/MENA626/MENA626/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MENA626/MENA626/output/github-snake-dark.svg?v=20261123b" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MENA626/MENA626/output/github-snake.svg?v=20261123b" />
+  <img alt="Animated GitHub Contribution Snake" src="https://raw.githubusercontent.com/MENA626/MENA626/output/github-snake.svg?v=20261123b" width="100%" />
 </picture>
 
 </div>
