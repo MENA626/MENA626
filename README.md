@@ -22,10 +22,6 @@
 <img src="https://img.shields.io/badge/FOCUS-AI_%26_LEGALTECH-7C3AED?style=for-the-badge&labelColor=0F172A" alt="AI and LegalTech" />
 <img src="https://komarev.com/ghpvc/?username=MENA626&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile views" />
 
-<br/><br/>
-
-<a href="https://github.com/MENA626?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
-
 </div>
 
 ---
