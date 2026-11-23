@@ -1,12 +1,20 @@
 <div align="center">
 
-<h1>HELLO WORLD, I'M MENAT ALLAH AHMED</h1>
+# HELLO WORLD
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=800&height=70&lines=Software+Engineer+%26+Developer;Full-Stack+Developer+%7C+Web+%26+Mobile;AI+%7C+LLMs+%7C+RAG+Enthusiast;Building+Next-Gen+LegalTech+Systems;Turning+Ideas+Into+Reality" alt="Typing Introduction" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/name-highlight-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset=".github/assets/name-highlight-light.svg" />
+  <img alt="MENAT ALLAH AHMED — Yellow Highlighter" src=".github/assets/name-highlight-light.svg" width="710" />
+</picture>
 
 <br/>
 
-<img src="https://img.shields.io/badge/LOCATION-TRIPOLI%2C_LIBYA-1D4ED8?style=for-the-badge&labelColor=0F172A" alt="Location Tripoli Libya" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=950&color=3B82F6&center=true&vCenter=true&repeat=true&width=790&height=65&lines=Software+Engineer+%26+Developer;Full-Stack+Developer+%7C+Web+%26+Mobile;AI+%7C+LLMs+%7C+RAG+Enthusiast;Building+Next-Gen+LegalTech+Systems;Turning+Ideas+Into+Reality" alt="Animated introduction" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/LOCATION-TRIPOLI%2C_LIBYA-1D4ED8?style=for-the-badge&labelColor=0F172A" alt="Location: Tripoli, Libya" />
 <img src="https://img.shields.io/badge/FOCUS-AI_%26_LEGALTECH-7C3AED?style=for-the-badge&labelColor=0F172A" alt="AI and LegalTech" />
 <img src="https://komarev.com/ghpvc/?username=MENA626&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile views" />
 
@@ -161,32 +169,51 @@ A structured directory connecting users with legal professionals.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MENA626&show_icons=true&hide_border=true&rank_icon=github&bg_color=0F172A&title_color=60A5FA&text_color=E2E8F0&icon_color=A78BFA" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MENA626&layout=compact&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=E2E8F0&langs_count=8" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MENA626&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=0F172A&amp;title_color=60A5FA&amp;text_color=E2E8F0&amp;icon_color=A78BFA" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MENA626&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=F8FAFC&amp;title_color=1D4ED8&amp;text_color=0F172A&amp;icon_color=7C3AED" alt="GitHub stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MENA626&amp;layout=compact&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=60A5FA&amp;text_color=E2E8F0&amp;langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MENA626&amp;layout=compact&amp;hide_border=true&amp;bg_color=F8FAFC&amp;title_color=1D4ED8&amp;text_color=0F172A&amp;langs_count=8" alt="Top languages" />
+</picture>
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=MENA626&theme=github-dark-blue&hide_border=true&background=0F172A&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MENA626&amp;hide_border=true&amp;background=0F172A&amp;ring=60A5FA&amp;fire=A78BFA&amp;currStreakLabel=60A5FA&amp;sideLabels=E2E8F0&amp;dates=CBD5E1" />
+  <img width="66%" src="https://streak-stats.demolab.com?user=MENA626&amp;hide_border=true&amp;background=F8FAFC&amp;ring=2563EB&amp;fire=7C3AED&amp;currStreakLabel=1D4ED8&amp;sideLabels=334155&amp;dates=64748B" alt="Contribution streak" />
+</picture>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MENA626&bg_color=0F172A&color=93C5FD&line=8B5CF6&point=FFFFFF&area_color=1D4ED8&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MENA626&amp;bg_color=0F172A&amp;color=93C5FD&amp;line=8B5CF6&amp;point=FFFFFF&amp;area_color=1D4ED8&amp;area=true&amp;hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MENA626&amp;bg_color=F8FAFC&amp;color=1D4ED8&amp;line=7C3AED&amp;point=2563EB&amp;area_color=BFDBFE&amp;area=true&amp;hide_border=true" alt="GitHub activity graph" />
+</picture>
 
 </div>
 
 ---
 
-## <img src=".github/assets/git-branch.svg" width="26" alt="" /> Contribution Activity
+## <img src=".github/assets/git-branch.svg" width="26" alt="" /> 2026 Contribution Activity
 
 <div align="center">
 
-<!-- These animated SVGs are generated automatically by .github/workflows/snake.yml -->
+**January 1 — December 31, 2026**
+
+The highlighted gold columns show the three weeks with your strongest contribution activity in 2026. The snake follows the entire calendar, with real contributions only.
+
+<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MENA626/MENA626/output/github-snake-dark.svg?v=20261123b" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MENA626/MENA626/output/github-snake.svg?v=20261123b" />
-  <img alt="Animated GitHub Contribution Snake" src="https://raw.githubusercontent.com/MENA626/MENA626/output/github-snake.svg?v=20261123b" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MENA626/MENA626/output/github-snake-2026-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MENA626/MENA626/output/github-snake-2026-light.svg" />
+  <img src="https://raw.githubusercontent.com/MENA626/MENA626/output/github-snake-2026-light.svg" alt="Animated 2026 GitHub contribution snake, highlighting strongest activity weeks" width="100%" />
 </picture>
+
+<sub>Live GitHub contributions from 2026. Future dates are intentionally blank. Updated automatically every day.</sub>
 
 </div>
 
