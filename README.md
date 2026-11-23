@@ -44,6 +44,7 @@ I am a Software Engineer and multi-platform Software Developer from Libya. I gra
 ### <img src="https://api.iconify.design/lucide/code-2.svg?color=%2360A5FA" width="23" alt="" /> Web & Backend Development
 
 <img src="https://skillicons.dev/icons?i=js,java,php,laravel,tailwind,nodejs,html,css&theme=dark&perline=8" alt="JavaScript, Java, PHP, Laravel, Tailwind CSS, Node.js, HTML5, CSS3" />
+<br/>
 <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs" />
 <img src="https://img.shields.io/badge/Livewire-7C3AED?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
 <img src="https://img.shields.io/badge/Laravel_Filament-1D4ED8?style=for-the-badge&logo=filament&logoColor=white" alt="Laravel Filament" />
@@ -75,6 +76,7 @@ I am a Software Engineer and multi-platform Software Developer from Libya. I gra
 ### <img src="https://api.iconify.design/lucide/database.svg?color=%23A78BFA" width="23" alt="" /> Databases & Data Infrastructure
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,redis&theme=dark" alt="PostgreSQL, MySQL, Supabase, Redis" />
+<br/>
 <img src="https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
 
 <br/><br/>
@@ -82,6 +84,7 @@ I am a Software Engineer and multi-platform Software Developer from Libya. I gra
 ### <img src="https://api.iconify.design/lucide/shield-check.svg?color=%2360A5FA" width="23" alt="" /> Cybersecurity & Linux
 
 <img src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark" alt="Kali Linux, Linux, Bash" />
+<br/>
 <img src="https://img.shields.io/badge/Nmap-2563EB?style=for-the-badge" alt="Nmap" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
@@ -92,6 +95,7 @@ I am a Software Engineer and multi-platform Software Developer from Libya. I gra
 ### <img src="https://api.iconify.design/lucide/wrench.svg?color=%23A78BFA" width="23" alt="" /> Development Tools & DevOps
 
 <img src="https://skillicons.dev/icons?i=replit,git,github,docker,postman,vscode,androidstudio&theme=dark&perline=7" alt="Replit, Git, GitHub, Docker, Postman, VS Code, Android Studio" />
+<br/>
 <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
 <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 
