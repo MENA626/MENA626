@@ -1,6 +1,10 @@
 <div align="center">
 
-# HELLO WORLD
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/hello-world-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset=".github/assets/hello-world-light.svg" />
+  <img alt="HELLO WORLD" src=".github/assets/hello-world-light.svg" width="320" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".github/assets/name-highlight-dark.svg" />
